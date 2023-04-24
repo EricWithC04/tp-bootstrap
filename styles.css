@@ -11,6 +11,26 @@ body {
     background-position: center;
 }
 
+.logo {
+    height: 40px;
+}
+
+.backg {
+    background-color: #343a40bb;
+}
+
+main {
+    height: 90vh;
+}
+
+article {
+    height: 90vh;
+}
+
+section {
+    height: 90vh;
+}
+
 /* header {
     height: 15vh;
     display: flex;
