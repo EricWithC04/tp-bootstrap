@@ -31,6 +31,10 @@ section {
     height: 90vh;
 }
 
+.foot {
+    height: 10vh;
+}
+
 /* header {
     height: 15vh;
     display: flex;
